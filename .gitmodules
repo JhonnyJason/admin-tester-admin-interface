@@ -1,0 +1,12 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/admin-tester-admin-interface-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/admin-tester-admin-interface-sources.git
+[submodule "pwa-sources"]
+	path = pwa-sources
+	url = git@github.com:JhonnyJason/admin-tester-pwa-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git

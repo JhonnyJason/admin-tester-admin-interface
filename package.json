@@ -101,6 +101,8 @@
         "browser-sync": "^2.26.7",
         "clean-css-cli": "^4.3.0",
         "coffeescript": "^2.5.1",
+        "crypto-hash": "^1.2.2",
+        "decamelize": "^4.0.0",
         "html-minifier": "^4.0.0",
         "implicit-dom-connect": "^0.2.2",
         "mustache": "^4.0.1",
